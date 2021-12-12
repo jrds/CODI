@@ -1,0 +1,6 @@
+[submodule "frontEnd"]
+	path = frontEnd
+	url = https://github.com/jrds/frontEnd.git
+[submodule "backEnd"]
+	path = backEnd
+	url = https://github.com/jrds/backEnd.git
